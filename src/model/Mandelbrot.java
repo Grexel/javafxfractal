@@ -10,5 +10,7 @@ package model;
  * @author Administrator
  */
 public class Mandelbrot {
-
+    int screenWidth;
+    int screenHeight;
+    double magnification;
 }
